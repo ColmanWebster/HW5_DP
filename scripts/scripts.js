@@ -12,7 +12,7 @@ $(function() {
     var page;
     
 
-     if (localStorage.getItem('page')){
+      if (localStorage.getItem('page')){
          page = JSON.parse(localStorage.getItem('page'));
          document.getElementById('output').innerHTML = page;
     }else{ 
