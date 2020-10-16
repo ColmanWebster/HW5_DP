@@ -1,0 +1,21 @@
+
+div, h3, table, tr, td{
+    border: 1px solid black;
+    width: 500px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+#btn{
+    width: 200px;
+    margin: 0 auto 0 auto;
+}
+
+#press{
+    
+    width: 200px;
+}
+
+#saveBtn{
+    background-color: aqua;
+}
